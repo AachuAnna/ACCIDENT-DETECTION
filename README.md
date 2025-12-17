@@ -54,7 +54,3 @@ https://drive.google.com/file/d/1MHX-HpMGqJQMtXvIZtmahiLOtp2kAp1J/view?usp=drive
 - Mobile application integration
 - Cloud-based accident reporting system
 
----
-
-## 👩‍💻 Author
--

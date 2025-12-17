@@ -1,4 +1,4 @@
-# Accident-Detection-System
+# Accident Detection System for Road Safety
 
 ## 📌 Overview
 This project presents an Arduino-based accident detection system designed to identify sudden impacts or abnormal conditions during vehicle movement. The system can be used to trigger alerts and support faster emergency response, improving road safety.

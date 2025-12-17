@@ -44,7 +44,6 @@ The project logic is tested through simulation to verify accident detection beha
 ---
 
 ## 🎥 Simulation Demo Video
-(Add your YouTube or Google Drive link here)
 
 ---
 
@@ -56,5 +55,4 @@ The project logic is tested through simulation to verify accident detection beha
 
 ---
 
-## 👩‍💻 Author
--
+

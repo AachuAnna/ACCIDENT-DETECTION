@@ -39,7 +39,7 @@ This project presents an Arduino-based accident detection system designed to ide
 ---
 
 ## 🧪 Simulation
-The project logic is tested through simulation to verify accident detection behavior under abnormal conditions AND .
+The project logic is tested through simulation to verify accident detection behavior under abnormal conditions.
 
 ---
 

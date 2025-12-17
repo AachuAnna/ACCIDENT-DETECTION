@@ -1,4 +1,4 @@
-# Accident Detection System
+# Accident-Detection-System
 
 ## 📌 Overview
 This project presents an Arduino-based accident detection system designed to identify sudden impacts or abnormal conditions during vehicle movement. The system can be used to trigger alerts and support faster emergency response, improving road safety.
@@ -23,7 +23,7 @@ This project presents an Arduino-based accident detection system designed to ide
 
 ## 🧰 Components Used
 - Arduino UNO  
-- Impact / Vibration Sensor or Accelerometer  
+- Impact / Vibration Sensor or Accelerometer 
 - Buzzer / LED (Alert indication)  
 - Breadboard  
 - Jumper Wires  
@@ -39,11 +39,12 @@ This project presents an Arduino-based accident detection system designed to ide
 ---
 
 ## 🧪 Simulation
-The project logic is tested through simulation to verify accident detection behavior under abnormal conditions.
+The project logic is tested through simulation to verify accident detection behavior under abnormal conditions AND .
 
 ---
 
 ## 🎥 Simulation Demo Video
+https://drive.google.com/file/d/1MHX-HpMGqJQMtXvIZtmahiLOtp2kAp1J/view?usp=drive_link
 
 ---
 
@@ -55,4 +56,5 @@ The project logic is tested through simulation to verify accident detection beha
 
 ---
 
-
+## 👩‍💻 Author
+-
